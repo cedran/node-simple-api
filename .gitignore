@@ -1,0 +1,32 @@
+# Dependências
+/node_modules
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de saída da compilação
+/dist
+
+# Arquivos de ambiente local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de configuração do editor/IDE
+/.vscode
+/.idea
+/*.sublime-project
+/*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de cache
+.cache
+.next
+.nuxt
